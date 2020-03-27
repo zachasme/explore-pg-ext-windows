@@ -2,7 +2,7 @@
 # Code modified from:
 # TimescaleDB (https://www.timescale.com/)
 
-set(EXT_SQL_FILE ${PROJECT_NAME}--${PROEJCT_VERSION}.sql)
+set(EXT_SQL_FILE ${PROJECT_NAME}--${PROJECT_VERSION}.sql)
 #set(EXT_SQL_UPDATE_FILE ${PROJECT_NAME}--${UPDATE_FROM_VERSION}--${PROEJCT_VERSION}.sql)
 #set(EXT_SQL_UPDATE_PRE_FILE updates/pre-${UPDATE_FROM_VERSION}--${PROEJCT_VERSION}.sql)
 #set(EXT_SQL_UPDATE_POST_FILE updates/post-${UPDATE_FROM_VERSION}--${PROEJCT_VERSION}.sql)

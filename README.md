@@ -1,6 +1,8 @@
 Dependencies:
 
-\*
+- git
+- Visual Studio Tools (with cpp workload)
+- cmake
 
 To build and install, run the following in a terminal:
 
